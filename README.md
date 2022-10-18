@@ -1,9 +1,12 @@
 # Quantum Practice
 
-Quantum code using qiskit.
+Practice quantum programming using [qiskit](https://qiskit.org/).
+
+Book: [Programming Quantum Computers: Essential Algorithms and Code Samples,
+First Edition](https://oreilly-qc.github.io/).
 
 ## Setup environment
 
 ```zsh
-pip install 'qiskit[visualization]'
+pip install -r requirements.txt
 ```
